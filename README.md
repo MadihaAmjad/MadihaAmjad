@@ -207,19 +207,8 @@ I’m particularly interested in building systems at the intersection of:
 * Vector databases
 * FastAPI backend architecture
 * AI-powered security tooling
-* Smart contract vulnerability detection
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="Madiha's GitHub Stats" height="180"/>
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="180"/>
-</p>
-
-
-
 ---
 
 ## 🤝 Let's Connect
