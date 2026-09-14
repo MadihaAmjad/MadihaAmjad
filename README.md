@@ -10,7 +10,7 @@ I build **secure smart contracts, cross-chain protocols, DeFi systems, REST APIs
 
 ## 👩‍💻 About Me
 
-* 🔗 Blockchain developer with **2.5+ years of professional experience**
+* 🔗 Blockchain developer with **3 years of professional experience**
 * 🧠 Building **AI/LLM-powered applications** using RAG, LangChain, embeddings, and vector databases
 * ⛓️ Experienced in **Solidity, EVM ecosystems, DeFi, cross-chain protocols, and smart contract architecture**
 * 🔐 Interested in **smart contract security, auditing, vulnerability detection, and blockchain infrastructure**
