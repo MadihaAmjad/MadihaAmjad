@@ -198,19 +198,6 @@ I’m particularly interested in building systems at the intersection of:
 
 ---
 
-## 📚 What I'm Learning
-
-* AI/ML Engineering
-* LLM application development
-* Retrieval-Augmented Generation (RAG)
-* AI agents and tool calling
-* Vector databases
-* FastAPI backend architecture
-* AI-powered security tooling
-
----
----
-
 ## 🤝 Let's Connect
 
 * 💼 LinkedIn: [Madiha Amjad](https://www.linkedin.com/)
